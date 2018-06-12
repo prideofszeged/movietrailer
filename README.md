@@ -4,7 +4,7 @@ A small program to display an HTML page with movie posters and trailers. Prepare
 
 ## Getting Started
 
-Clone the project to your machine and run it with `entertainmen_center.py`
+Clone the project to your machine and run it with `entertainment_center.py`
 
 ### Prerequisites
 
@@ -17,17 +17,13 @@ No external modules installed.
 
 Feel free to fork and improve. Please reach out if there are any questions. 
 
-## Versioning
-
-
-
 ## Authors
 
-* **Steven Daut** based on sample code provided by Udacity from their Full Stack Developer Nanodegree [Udacity](https://udacity.com)
+* **Steven Daut** based on sample code provided by Udacity from their Full Stack Developer Nanodegree [Udacity](https://udacity.com).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
